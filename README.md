@@ -1,0 +1,1 @@
+# weighted_image_on_scalar
